@@ -11,7 +11,7 @@ The VRS connects source variants, component decisions, reviewer notes, approval 
 **By Laura Mujica · 2026**  
 Creative workflow design · Content systems · AI-assisted development · Production research
 
-[Read the case study](docs/CASE_STUDY.md) · [Open the demo](demo/index.html) · [How the demo works](docs/DEMO_GUIDE.md)
+[Read the case study](docs/CASE_STUDY.md) · [Open DEMO](https://laumujica.github.io/variant-reconciliation-system/) · [How the demo works](docs/DEMO_GUIDE.md)
 
 ## Why I built it
 
