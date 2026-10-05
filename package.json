@@ -1,0 +1,10 @@
+{
+  "name": "variant-reconciliation-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public demonstration and case study of a creative content reconciliation workflow, adapted from v54.",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}
