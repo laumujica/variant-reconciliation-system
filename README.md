@@ -1,3 +1,5 @@
+![VRS — Variant Reconciliation System: Make the meaningful decisions visible.](docs/assets/vrs-cover.jpg)
+
 # Variant Reconciliation System
 
 **A real creative workflow turned into a structured review tool.**
@@ -37,6 +39,10 @@ This public edition condenses the working prototype into **3 source variants, 4 
 | Real client decisions | A fresh, resettable review for each browser |
 
 The sample material illustrates the workflow; it is not presented as a second client project. The system records human decisions. It does not automatically audit unseen files, choose content, merge wording or produce an InDesign document.
+
+![VRS demo home screen with the structured content review introduction.](screenshot-home-05.10.26.png)
+
+*The demo opens with an introduction before entering the component review.*
 
 ## Try it locally
 
